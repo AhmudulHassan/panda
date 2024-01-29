@@ -1,0 +1,15 @@
+.orange-bg{
+   background-color: orange; 
+}
+
+.carousel-item{
+    padding: 20px 40px;
+
+}
+.price{
+    color: blueviolet;
+}
+
+.container{
+    margin-bottom: 100px;
+}
